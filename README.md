@@ -6,6 +6,8 @@ Example:
 
 Input: 70 150 6.1
 
+Output:
+
 BMI for w1: 21.1312
 
 BMI for w2 with height converted to meters: 28.3231
