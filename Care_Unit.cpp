@@ -1,14 +1,3 @@
-/*==========================================================
-
- Title:     Assignment 4 - C++ Care Unit
- Course:  	CIS 2252
- Author:  	<First & Last Name>
- Date:    	< / / >
- Description: This program ....
-
- ==========================================================
-*/
-
 #include <iostream>
 #include <string>
 #include <cmath>
